@@ -1,3 +1,5 @@
+//Eloquent Javascript Exercise "Chess Board"
+
 chessString = "";
 stringEven = "";
 stringOdd ="";
@@ -25,3 +27,5 @@ for(var z = 0; z < size; z++){
 }
 
 console.log(chessString)
+
+
